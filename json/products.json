@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "./assets/produtos-cafe-tradicional.png",
+        "alt": "Café preto.",
+        "title": "Cafés tradicionais",
+        "description": "O café Serenatto é conhecido por seus blends tradicionais e saborosos, que agradam aos amantes da bebida. Nossos grãos são cuidadosamente selecionados e torrados para produzir um aroma rico e sabor equilibrado. Entre os cafés mais tradicionais da casa, destaca-se o 'Café Serenatto', um blend exclusivo de grãos com notas de chocolate e caramelo. Outra opção popular é o 'Café Italiano', um café expresso encorpado e intenso. Já o 'Café Cappuccino' é uma escolha clássica para quem prefere uma bebida cremosa e suave."
+    },
+    {
+        "id": 2,
+        "img": "./assets/produtos-cafe-especial.png",
+        "alt": "Café expresso.",
+        "title": "Cafés especiais",
+        "description": "Somos conhecidos também por nossos cafés especiais, que são cuidadosamente preparados com grãos selecionados de alta qualidade e técnicas de preparo precisas. Entre as opções de cafés especiais do Café & Bistrô Serenatto, destacamos o café aeropress, que é preparado com uma técnica de imersão e pressão, resultando em uma bebida de sabor intenso e aroma acentuado. Outra opção popular é o café Hario V60, que é preparado com um filtro de papel em formato de cone e resulta em uma bebida limpa e suave, ressaltando as notas sensoriais dos grãos. Além disso, oferecemos uma variedade de bebidas geladas, como o café gelado, que é preparado com grãos torrados escuros e servido com gelo e leite, resultando em uma bebida refrescante e saborosa."
+    },
+    {
+        "id": 3,
+        "img": "./assets/produtos-vitaminas.png",
+        "alt": "Vitaminas variadas.",
+        "title": "Smoothies e Vitaminas",
+        "description": "Nossos smoothies e vitaminas são uma opção saudável e deliciosa para refrescar e nutrir o seu dia. Preparamos cada bebida com ingredientes frescos e selecionados, garantindo sabores irresistíveis e nutrientes essenciais. Entre as opções disponíveis, destacamos o 'Smoothie Energia Verde', feito com espinafre, banana, abacaxi e suco de laranja, que proporciona um impulso energético revitalizante. Para os amantes de frutas vermelhas, temos a 'Vitamina de Frutas Vermelhas', uma combinação de morangos, framboesas, mirtilos e iogurte natural, perfeita para saciar a sede e satisfazer o paladar. E para os que desejam uma opção mais tropical, oferecemos o 'Smoothie de Manga e Coco', preparado com manga fresca, leite de coco e um toque de hortelã, proporcionando uma explosão de sabores exóticos. Nossos smoothies e vitaminas são uma maneira deliciosa de desfrutar de nutrientes essenciais enquanto se refresca."
+    },
+    {
+        "id": 4,
+        "img": "./assets/produtos-paes.png",
+        "alt": "Pães variados.",
+        "title": "Pães e Focaccias",
+        "description": "Na nossa padaria, você encontrará uma variedade de pães e focaccias fresquinhas, preparadas diariamente com ingredientes de alta qualidade e técnicas artesanais. Oferecemos opções para todos os gostos, desde pães clássicos até criações especiais. Experimente o nosso 'Pão Francês', com sua casca crocante e miolo macio, perfeito para acompanhar uma xícara de café. Para os que apreciam um pão mais rústico, temos a 'Focaccia de Alecrim e Azeitonas', com sua massa macia e aromática, coberta com alecrim fresco e azeitonas suculentas. Se você busca algo mais saboroso, não deixe de experimentar o 'Pão de Queijo', uma deliciosa combinação de queijo derretido e massa de mandioca, irresistível em cada mordida. Nossos pães e focaccias são feitos com carinho e dedicação para garantir a melhor experiência de sabor e textura."
+    },
+    {
+        "id": 5,
+        "img": "./assets/produtos-doces.png",
+        "alt": "Bolo de morango.",
+        "title": "Doces",
+        "description": "Em nossa confeitaria, os doces são verdadeiras tentações para os amantes de sobremesas. Preparamos cada doce com ingredientes de alta qualidade e um toque de criatividade, buscando proporcionar uma explosão de sabores em cada mordida. Delicie-se com nosso 'Brownie de Chocolate', com sua textura macia e intensidade de sabor que derrete na boca. Se você busca algo mais refrescante, experimente a 'Torta de Limão', com sua combinação equilibrada de massa crocante e recheio cítrico e cremoso. Para os amantes de doces tradicionais, oferecemos o clássico 'Pudim de Leite Condensado', com sua textura aveludada e sabor doce e reconfortante. Além disso, temos uma variedade de bolos, tortas e sobremesas sazonais que são preparados com carinho e cuidado para proporcionar momentos de prazer e doçura."
+    },
+    {
+        "id": 6,
+        "img": "./assets/produtos-salgados.png",
+        "alt": "Torta salgada.",
+        "title": "Salgados",
+        "description": "Em nossa cozinha, os salgados são preparados com dedicação e criatividade para oferecer opções saborosas e satisfatórias. Experimente a 'Coxinha de Frango', com sua massa delicada e recheio suculento, um clássico que agrada a todos os paladares. Para os amantes de petiscos crocantes, temos os 'Pasteizinhos Assados', com uma variedade de recheios deliciosos, como queijo, carne e palmito. Se você deseja uma opção mais substancial, experimente o 'Sanduíche de Presunto e Queijo', com sua combinação perfeita de ingredientes frescos e pão macio. Além disso, oferecemos opções vegetarianas, como o 'Quiche de Espinafre e Queijo', com sua massa dourada e recheio cremoso. Nossos salgados são perfeitos para uma refeição rápida ou para compartilhar com amigos e familiares em qualquer ocasião."
+    }
+]
