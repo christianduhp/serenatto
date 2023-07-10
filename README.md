@@ -1,5 +1,7 @@
 ## Serenatto Café & Bistro
 
+[Click here to visit the Serenatto Café & Bistro website](https://christianduhp.github.io/serenatto/)
+
 This is the README file for the Serenatto Café & Bistro website. It provides an overview of the website structure and functionality.
 
 [Introduction](#introduction) |  [Features](#features) |  [File Structure](#file-structure)  |  [Usage](#usage) | [Dependencies](#dependencies)
