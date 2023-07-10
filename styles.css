@@ -58,6 +58,14 @@ input[type=checkbox]:focus {
   background-attachment: fixed;
 }
 
+@media (max-width: 768px) {
+  .banner-1,
+  .banner-2,
+  .banner-3 {
+    background-attachment: scroll;
+  }
+}
+
 .banners-title {
   --bs-bg-opacity: .2
 }
